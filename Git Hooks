@@ -1,0 +1,7 @@
+PBITUtility.exe 
+post-commit 
+post-merge 
+pre-commit
+## Power BI source control.
+.commit
+*.pbix
